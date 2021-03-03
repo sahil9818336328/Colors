@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 View my deployed app at :- https://frosty-bose-916a35.netlify.app/
 
+Link to value.js :- https://github.com/noeldelgado/values.js
+
 ## Available Scripts
 
 In the project directory, you can run:
